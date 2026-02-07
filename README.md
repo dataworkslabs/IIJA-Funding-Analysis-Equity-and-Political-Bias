@@ -1,7 +1,11 @@
 #  IIJA Funding Analysis: Equity and Political Bias
 
 ##  Project Overview
-This project analyzes the allocation of the **Infrastructure Investment and Jobs Act (IIJA)** funding as of March 2023. By merging federal funding data with 2023 Census population estimates and 2020 Presidential election results, this study addresses two core questions:
+This project looks at how the Infrastructure Investment and Jobs Act (IIJA) money was actually handed out as of March 2023. Instead of just looking at the big "billions" numbers—which can be misleading—I focused on funding per person. This makes it much easier to see the real story behind where the money is going and whether it’s being shared fairly across different states.
+
+##  Core Research Questions
+I combined the official government funding list with 2023 Census data and the 2020 election results to answer two main things:
+Is it political? Did the states that voted for Joe Biden get more money, or did the funding follow a different set of rules?
 1. Is the funding equitable based on state population?
 2. Does the allocation favor the political interests of the Biden administration?
 
